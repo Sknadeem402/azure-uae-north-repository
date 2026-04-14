@@ -1,0 +1,9 @@
+{
+	"name": "azureuaenorthdatafactory102",
+	"location": "uaenorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d9def208-e154-43da-836b-d9c192a3232f",
+		"tenantId": "dca19378-d0d9-4c62-8e74-11a804c2d871"
+	}
+}
